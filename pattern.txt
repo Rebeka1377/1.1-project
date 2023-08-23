@@ -1,0 +1,2 @@
+emailPattern = " ^[a-zA-Z0-9]+[@]+[a-zA-Z0-9]+[.]+[a-zA-Z0-9]+$";
+mobileNumberPattern = "^[0-9]*5";
